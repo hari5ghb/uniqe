@@ -1,0 +1,15 @@
+/* Global Reset and Base Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;           /* prevent horizontal scroll */
+  overscroll-behavior-y: contain; /* prevent scroll bounce on pull down */
+  font-family: 'Roboto', sans-serif;
+}

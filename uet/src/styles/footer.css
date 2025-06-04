@@ -1,0 +1,7 @@
+.footer-container {
+  background-color: #1b1c1e;
+  color: white;
+  font-size: 0.875rem; /* text-sm */
+  text-align: center;
+  padding: 1rem 0; /* p-4 */
+}
