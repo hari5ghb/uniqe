@@ -10,6 +10,6 @@ html, body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;           /* prevent horizontal scroll */
-  overscroll-behavior-y: contain; /* prevent scroll bounce on pull down */
+  overscroll-behavior-y: contain; 
   font-family: 'Roboto', sans-serif;
 }
